@@ -71,14 +71,14 @@ Tech Blog is not just a content management system; it's a vibrant community hub 
 
 ## Sources
 
-*[Express.js](https://expressjs.com/)
-*[Handlebars.js](https://handlebarsjs.com/)
-*[Sequelize ORM](https://sequelize.org/)
-*[MySQL2](https://www.npmjs.com/package/mysql2)
-*[bcrypt](https://www.npmjs.com/package/bcrypt)
-*[express-session](https://www.npmjs.com/package/express-session)
-*[connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
-*[Heroku](https://www.heroku.com/)
+1.[Express.js](https://expressjs.com/)
+2.[Handlebars.js](https://handlebarsjs.com/)
+3.[Sequelize ORM](https://sequelize.org/)
+4.[MySQL2](https://www.npmjs.com/package/mysql2)
+5.[bcrypt](https://www.npmjs.com/package/bcrypt)
+6.[express-session](https://www.npmjs.com/package/express-session)
+7.[connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
+8.[Heroku](https://www.heroku.com/)
 
 
 
